@@ -23,9 +23,8 @@
   - [🏁 Getting Started](#-getting-started)
   - [📖 Usage Guide](#-usage-guide)
   - [📚 Component Documentation](#-component-documentation)
-  - [🤝 Contributing](#-contributing)
   - [📄 License](#-license)
-  - [👏 Acknowledgments](#-acknowledgments)
+  - [📞 Contact](#-contact)
   
   ---
   
