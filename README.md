@@ -2,7 +2,7 @@
   
   # 🌙 curate-nights ✨
 
-  <img src="https://via.placeholder.com/200x200" alt="curate-nights logo" width="200"/>
+  <img src="./public/favicon.ico" alt="curate-nights logo" width="200"/>
   
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
   [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
